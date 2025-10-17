@@ -144,16 +144,6 @@
         "body": "constexpr int inf = 2E9;",
         "description": "Infinity constant"
     },
-    "Modulo 1e9+7": {
-        "prefix": "mod1",
-        "body": "constexpr int mod = 1E9 + 7;",
-        "description": "Common modulo 10^9+7"
-    },
-    "Modulo 998244353": {
-        "prefix": "mod2",
-        "body": "constexpr int mod = 998244353;",
-        "description": "Common modulo 998244353"
-    },
     "Newline": {
         "prefix": "endll",
         "body": "\"\\n\"",
