@@ -447,12 +447,5 @@
             ""
         ],
         "description": "Sparse Table data structure"
-    },
-    "CP Mantras": {
-        "prefix": "mantrax",
-        "body": [
-            "Search Space Reduced → BF, Monotone/Order → BS, Else → Flow"
-        ],
-        "description": "Competitive Programming problem-solving mantras"
     }
 }
